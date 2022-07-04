@@ -1,0 +1,4 @@
+#Mon Jul 04 12:21:00 CST 2022
+base.0=/Users/owo/Documents/Flutter/taiwan_transportation_tracking/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
