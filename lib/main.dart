@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:taiwan_transportation_tracking/pages/navpages/main_page.dart';
+import 'package:taiwan_transportation_tracking/pages/main_page.dart';
 
 void main() {
   runApp(const MyApp());

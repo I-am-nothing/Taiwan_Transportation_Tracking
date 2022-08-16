@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/owo/Documents/Flutter/taiwan_transportation_tracking/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/owo/Documents/GitHub/Taiwan_Transportation_Tracking/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/owo/Documents/Flutter/taiwan_transportation_tracking/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/owo/Documents/GitHub/Taiwan_Transportation_Tracking/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
